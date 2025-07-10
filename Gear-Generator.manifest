@@ -1,0 +1,14 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "addin",
+	"id": "com.yourname.cycloidal.gear.generator",
+	"author": "Your Name",
+	"description": {
+		"": "Cycloidal Gear Generator Add-in"
+	},
+	"version": "1.0.0",
+	"runOnStartup": false,
+	"supportedOS": "windows|mac",
+	"editEnabled": true,
+	"iconFilename": "ScriptIcon.svg"
+}
